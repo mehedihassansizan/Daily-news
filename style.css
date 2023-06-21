@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #F6F6F6;
+}
+.news{
+    color: gray;
+}
+.news:hover{
+    color: blue;
+}
+.catagories{
+  color: gray;
+  font-size: 13px;
+}
+.catagories:hover{
+  background-color:#EEEFFF;
+  color: #5D5FEF;
+}
+@media screen and (max-width: 596px) {
+.nav-link{
+  padding: 0px;
+}
+}
